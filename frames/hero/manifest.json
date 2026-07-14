@@ -1,0 +1,6 @@
+{
+  "count": 150,
+  "pattern": "frame_%04d.jpg",
+  "width": 960,
+  "height": 540
+}
